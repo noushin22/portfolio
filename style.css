@@ -1,0 +1,47 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 0;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 52px;
+}
+
+.white{
+    color:white
+}
+
+.walter-turncoat {
+    font-family: 'Walter Turncoat', cursive;
+}
+
+.patrick-hand {
+    font-family: 'Patrick Hand SC', cursive;
+}
+
+.abel {
+font-family: 'Abel', sans-serif;
+}
+
+.satisfy {
+font-family: 'Satisfy', cursive;
+}
+
+.icons {
+    margin: 2% auto;
+    text-align: center;
+}
+
+.copyright {
+    font-size: 15px;
+    text-align: center;
+}
